@@ -4,8 +4,6 @@
 
 
 
-[TOC]
-
 ## **Research Interests**
 
 Investigate how artificial intelligence, robotics, wireless sensors, and digital construction are changing product quality, productivity, occupational safety and health of the construction industry.
@@ -14,8 +12,9 @@ Investigate how artificial intelligence, robotics, wireless sensors, and digital
 
 ## **Education**
 
-| 12/2007-11/2010 | **Doctor  of Philosophy,** Department of Building & Real  Estate, The Hong Kong Polytechnic University, Hong Kong. Thesis**:** *A Knowledge-based  Electronic Meeting System for Implementing Value Management in Construction  Briefing.* |
+| S-E             | Degree                                                       |
 | --------------- | ------------------------------------------------------------ |
+| 12/2007-11/2010 | **Doctor  of Philosophy,** Department of Building & Real  Estate, The Hong Kong Polytechnic University, Hong Kong. Thesis**:** *A Knowledge-based  Electronic Meeting System for Implementing Value Management in Construction  Briefing.* |
 | 09/2003-07/2006 | **Master  of Engineering (Disaster Prevention and Mitigation Engineering),** Department  of Civil Engineering, Tsinghua University, Beijing, China. Thesis: *Web-Based Collaborative Management of Shop  Drawings.* |
 | 09/1997-07/2001 | **Bachelor  of Engineering (Civil Engineering),** Department  of Civil Engineering,  Xi’an University of Technology, Xi’an, Shaanxi, China. |
 
@@ -23,10 +22,10 @@ Investigate how artificial intelligence, robotics, wireless sensors, and digital
 
 ## **Working Experience**
 
-| 01/2022-present | **Professor,**  School of Civil Engineering and Transportation, South China University of  Technology, Guangdong, China. |
+| S-E             | Position                                                     |
 | --------------- | ------------------------------------------------------------ |
-| 12/2021-12/2021 | **Principal  Research Fellow,** Department of  Building & Real Estate, The Hong Kong Polytechnic University, Hong Kong. |
-| 03/2013-11/2021 | **Senior  Research Fellow,** Department of  Building & Real Estate, The Hong Kong Polytechnic University, Hong Kong. |
+| 12/2020-12/2021 | **Principal  Research Fellow,** Department of  Building & Real Estate, The Hong Kong Polytechnic University, Hong Kong. |
+| 03/2013-11/2020 | **Senior  Research Fellow,** Department of  Building & Real Estate, The Hong Kong Polytechnic University, Hong Kong. |
 | 11/2016-12/2016 | **Visiting Scholar,** Department of Civil and Environmental Engineering,  University of Michigan, Ann Arbor, MI 48109 USA. |
 | 09/2012-01/2013 | **Visiting Lecturer (Part-Time),** Department of Building & Real Estate, The Hong Kong  Polytechnic University, Hong Kong. |
 | 01/2011-02/2013 | **Post-doctoral  Research Fellow,** Department of  Building & Real Estate, The Hong Kong Polytechnic University, Hong Kong. |
@@ -37,7 +36,7 @@ Investigate how artificial intelligence, robotics, wireless sensors, and digital
 
 ## **Teaching Experience**
 
-| Semester        | Course                                                       |
+| S-E             | Course                                                       |
 | --------------- | ------------------------------------------------------------ |
 | 09/2012-01/2013 | BRE470  - Information Technology and Building Information Modelling for Construction,  Department of Building & Real Estate, The Hong Kong Polytechnic  University. |
 
@@ -45,7 +44,7 @@ Investigate how artificial intelligence, robotics, wireless sensors, and digital
 
 ## **Research Projects**                                                         
 
-| Duration              | Project                                                      |
+| S-E                   | Project                                                      |
 | --------------------- | ------------------------------------------------------------ |
 | 01/12/2020-30/1/2022  | Li,  H. (Project Coordinator), Luo, X. A  computer vision-enabled digital twin for construction resource and progress  management (ITP/018/20LP). *ITSP Tier 1, Platform*. |
 | 01/06/2018-30/11/2020 | Li,  H. (Project Coordinator), **Luo, X.**,  Huang, T., and Tang, F. Enabling Technologies based on Computer Vision and  Machine Learning for Better Quality Management on Construction Sites  (ITP/020/18LP). *ITSP Tier 1, Platform*. |
@@ -186,17 +185,10 @@ Investigate how artificial intelligence, robotics, wireless sensors, and digital
 
 4. Journal reviewer of *Computer-Aided Civil and Infrastructure Engineering*, *Automation in Construction*, *Journal of Construction Engineering and Management,* and *Journal of Management in Engineering.*
 
-5. Professional Member (07/2011-Present). The Hong Kong Institute of Building Information Modelling (BIM).
+5. Professional Member (07/2011-Present). The Hong Kong Institute of Building Information Modelling (BIM).		
 
-6. BIM services (01/2011-02/2013): 
 
-​		a)    BIM service “Construction method simulation in Central–Wan Chai Bypass construction” 	committed by China State Construction International Holdings, Hong Kong. In this project, an interactive construction method simulation system was developed based on a game engine, in which discrete event simulation rules were scripted to dynamically check the feasibility of specific construction methods.
-
-​		b)    BIM Toolkit development: “A 4D construction simulation player.”
-
-​		c)    Add-in development for Autodesk Revit, Civil 3D, and AutoCAD.
-
-7. Student Member (2008-2010), The Hong Kong Institute of Value Management.
+6. Student Member (2008-2010), The Hong Kong Institute of Value Management.
 
 
 
@@ -210,6 +202,6 @@ Investigate how artificial intelligence, robotics, wireless sensors, and digital
 
 4. 2015 Merit Award Winner, Innovation Achiever’s Award, CIOB International Innovation & Research Award: **Luo, X.**, Li, H and Ye, B. “Pro-active Construction Management System.” http://iandrawards.ciob.org/node/84.
 
-\5.    2010 Distinction Award of Tony Toy Memorial Award at the 10th International Value Management Conference, Hong Kong Institute of Value Management.
+5. 2010 Distinction Award of Tony Toy Memorial Award at the 10th International Value Management Conference, Hong Kong Institute of Value Management.
 
-\6.    2005 Best Paper of the 8th National Construction Industry Academic Meeting of Informationlization and Multimedia Aided Engineering, Chengde, Hebei, China: Ma, Z.L. and **Luo, X.** (2005). “A Study on Modeling of Drawing Document Management System for Multi-party in Construction Projects.” 221-228 (in Chinese). 
+6. 2005 Best Paper of the 8th National Construction Industry Academic Meeting of Informationlization and Multimedia Aided Engineering, Chengde, Hebei, China: Ma, Z.L. and **Luo, X.** (2005). “A Study on Modeling of Drawing Document Management System for Multi-party in Construction Projects.” 221-228 (in Chinese). 
