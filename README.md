@@ -46,7 +46,7 @@ Investigate how artificial intelligence, robotics, wireless sensors, and digital
 
 | S-E                   | Project                                                      |
 | --------------------- | ------------------------------------------------------------ |
-| 01/12/2020-30/1/2022  | Li,  H. (Project Coordinator), Luo, X. A  computer vision-enabled digital twin for construction resource and progress  management (ITP/018/20LP). *ITSP Tier 1, Platform*. |
+| 01/12/2020-30/11/2022 | Li,  H. (Project Coordinator), Luo, X. A  computer vision-enabled digital twin for construction resource and progress  management (ITP/018/20LP). *ITSP Tier 1, Platform*. |
 | 01/06/2018-30/11/2020 | Li,  H. (Project Coordinator), **Luo, X.**,  Huang, T., and Tang, F. Enabling Technologies based on Computer Vision and  Machine Learning for Better Quality Management on Construction Sites  (ITP/020/18LP). *ITSP Tier 1, Platform*. |
 | 01/06/2016-31/05/2018 | Li,  H. (Project Coordinator), **Luo, X.**,  Huang, T., and Tang, F. Smart Construction Platform Based on Cloud BIM and  Image Processing (ITP/002/16LP). *ITSP  Tier 1, Platform*. |
 | 31/03/2014-30/03/2015 | Li,  H. (Project Coordinator), **Luo, X.**,  Huang, T., and Wong, K.W. Automated Construction Progress Tracking Using  Real-time Locations of Labor Crew (ITP/004/14LI). *ITSP Tier 1, Collaborative.* |
