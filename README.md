@@ -1,6 +1,6 @@
 # **XIAOCHUN LUO**
 
-**Address**: Rm 418, Transportation Building, School of Civil Engineering and Transportation, South China University of Technology, Guangzhou, China
+**Address**: Rm 418, Transportation Building, School of Civil Engineering and Transportation, South China University of Technology, Wushan, Guangzhou, China
 
 
 
@@ -12,7 +12,7 @@ Investigate how artificial intelligence, robotics, wireless sensors, and digital
 
 ## **Education**
 
-| S-E             | Degree                                                       |
+| FromTo          | Degree                                                       |
 | --------------- | ------------------------------------------------------------ |
 | 12/2007-11/2010 | **Doctor  of Philosophy,** Department of Building & Real  Estate, The Hong Kong Polytechnic University, Hong Kong. Thesis**:** *A Knowledge-based  Electronic Meeting System for Implementing Value Management in Construction  Briefing.* |
 | 09/2003-07/2006 | **Master  of Engineering (Disaster Prevention and Mitigation Engineering),** Department  of Civil Engineering, Tsinghua University, Beijing, China. Thesis: *Web-Based Collaborative Management of Shop  Drawings.* |
@@ -22,21 +22,19 @@ Investigate how artificial intelligence, robotics, wireless sensors, and digital
 
 ## **Working Experience**
 
-| S-E             | Position                                                     |
+| FromTo          | Position                                                     |
 | --------------- | ------------------------------------------------------------ |
 | 12/2020-12/2021 | **Principal  Research Fellow,** Department of  Building & Real Estate, The Hong Kong Polytechnic University, Hong Kong. |
 | 03/2013-11/2020 | **Senior  Research Fellow,** Department of  Building & Real Estate, The Hong Kong Polytechnic University, Hong Kong. |
 | 11/2016-12/2016 | **Visiting Scholar,** Department of Civil and Environmental Engineering,  University of Michigan, Ann Arbor, MI 48109 USA. |
-| 09/2012-01/2013 | **Visiting Lecturer (Part-Time),** Department of Building & Real Estate, The Hong Kong  Polytechnic University, Hong Kong. |
 | 01/2011-02/2013 | **Post-doctoral  Research Fellow,** Department of  Building & Real Estate, The Hong Kong Polytechnic University, Hong Kong. |
-| 09/2006-11/2007 | **Research  Assistant****,**  Department of Building & Real Estate, The Hong Kong Polytechnic  University, Hong Kong. |
-| 07/2001-09/2002 | **Site  Engineer,** Wuhan Construction Engineering Co.,  ltd., Wuhan, Hubei, China. |
+| 09/2006-11/2007 | **Research  Assistant**,  Department of Building & Real Estate, The Hong Kong Polytechnic  University, Hong Kong. |
 
 
 
 ## **Teaching Experience**
 
-| S-E             | Course                                                       |
+| FromTo          | Course                                                       |
 | --------------- | ------------------------------------------------------------ |
 | 09/2012-01/2013 | BRE470  - Information Technology and Building Information Modelling for Construction,  Department of Building & Real Estate, The Hong Kong Polytechnic  University. |
 
@@ -44,14 +42,14 @@ Investigate how artificial intelligence, robotics, wireless sensors, and digital
 
 ## **Research Projects**                                                         
 
-| S-E                   | Project                                                      |
+| FromTo                | Project                                                      |
 | --------------------- | ------------------------------------------------------------ |
-| 01/12/2020-30/11/2022 | Li,  H. (Project Coordinator), Luo, X. A  computer vision-enabled digital twin for construction resource and progress  management (ITP/018/20LP). *ITSP Tier 1, Platform*. |
-| 01/06/2018-30/11/2020 | Li,  H. (Project Coordinator), **Luo, X.**,  Huang, T., and Tang, F. Enabling Technologies based on Computer Vision and  Machine Learning for Better Quality Management on Construction Sites  (ITP/020/18LP). *ITSP Tier 1, Platform*. |
-| 01/06/2016-31/05/2018 | Li,  H. (Project Coordinator), **Luo, X.**,  Huang, T., and Tang, F. Smart Construction Platform Based on Cloud BIM and  Image Processing (ITP/002/16LP). *ITSP  Tier 1, Platform*. |
-| 31/03/2014-30/03/2015 | Li,  H. (Project Coordinator), **Luo, X.**,  Huang, T., and Wong, K.W. Automated Construction Progress Tracking Using  Real-time Locations of Labor Crew (ITP/004/14LI). *ITSP Tier 1, Collaborative.* |
-| 01/01/2013-31/10/2014 | Li,  H. (Project Coordinator), Ye, T., Huang, T., **Luo, X.**, Chan, N., Chen, X., Lu, F., and Li, Y.-F. Location-based Technologies for Asset  Tracking and Risk Management (ITP/036/12LP). *ITSP Tier 1, Platform*. |
-| 01/07/2012-31/07/2014 | Li,  H. (Project Coordinator), Huang, T., and **Luo,  X**. Visualization of Construction Dynamics of Metro Projects Based on  Process Information (2012BAK24B0103). *Sub-project  of National Programs for Science and Technology, China*. |
+| 01/12/2020-30/11/2022 | A  computer vision-enabled digital twin for construction resource and progress  management (ITP/018/20LP). *ITSP Tier 1, Platform*. |
+| 01/06/2018-30/11/2020 | Enabling Technologies based on Computer Vision and  Machine Learning for Better Quality Management on Construction Sites  (ITP/020/18LP). *ITSP Tier 1, Platform*. |
+| 01/06/2016-31/05/2018 | Smart Construction Platform Based on Cloud BIM and  Image Processing (ITP/002/16LP). *ITSP  Tier 1, Platform*. |
+| 31/03/2014-30/03/2015 | Automated Construction Progress Tracking Using  Real-time Locations of Labor Crew (ITP/004/14LI). *ITSP Tier 1, Collaborative.* |
+| 01/01/2013-31/10/2014 | Location-based Technologies for Asset  Tracking and Risk Management (ITP/036/12LP). *ITSP Tier 1, Platform*. |
+| 01/07/2012-31/07/2014 | Visualization of Construction Dynamics of Metro Projects Based on  Process Information (2012BAK24B0103). *Sub-project  of National Programs for Science and Technology, China*. |
 
 
 
