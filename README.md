@@ -14,9 +14,9 @@ Investigate how artificial intelligence, robotics, wireless sensors, and digital
 
 | FromTo          | Degree                                                       |
 | --------------- | ------------------------------------------------------------ |
-| 12/2007-11/2010 | **Doctor  of Philosophy,** Department of Building & Real  Estate, The Hong Kong Polytechnic University, Hong Kong. Thesis**:** *A Knowledge-based  Electronic Meeting System for Implementing Value Management in Construction  Briefing.* |
-| 09/2003-07/2006 | **Master  of Engineering (Disaster Prevention and Mitigation Engineering),** Department  of Civil Engineering, Tsinghua University, Beijing, China. Thesis: *Web-Based Collaborative Management of Shop  Drawings.* |
-| 09/1997-07/2001 | **Bachelor  of Engineering (Civil Engineering),** Department  of Civil Engineering,  Xi’an University of Technology, Xi’an, Shaanxi, China. |
+| 12/2007-11/2010 | **Doctor  of Philosophy,** Department of Building & Real  Estate, The Hong Kong Polytechnic University, Hong Kong.|
+| 09/2003-07/2006 | **Master  of Engineering (Disaster Prevention and Mitigation Engineering),** Department  of Civil Engineering, Tsinghua University, Beijing, China.|
+| 09/1997-07/2001 | **Bachelor  of Engineering (Civil Engineering),** Department  of Civil Engineering,  Xi’an University of Technology, Xi’an, Shaanxi, China.|
 
 
 
