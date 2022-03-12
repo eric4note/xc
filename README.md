@@ -1,12 +1,13 @@
 # **XIAOCHUN LUO**
+Prof. of School of Civil Engineering and Transportation, South China University of Technology
 
-**Address**: Rm 418, Transportation Building, School of Civil Engineering and Transportation, South China University of Technology, Wushan, Guangzhou, China
+**Address**: Rm 418, Transportation Building, South China University of Technology, Wushan, Guangzhou, China
 
 
 
 ## **Research Interests**
 
-Investigate how artificial intelligence, robotics, wireless sensors, and digital construction are changing product quality, productivity, occupational safety and health of the construction industry.
+Create intelligent agents to sense and understand the complicated construction activities and environments, and make management and construction easier.
 
 
 
