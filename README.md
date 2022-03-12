@@ -1,6 +1,6 @@
 # **XIAOCHUN LUO**
 
-Prof. of School of Civil Engineering and Transportation, South China University of Technology
+Professor of School of Civil Engineering and Transportation, South China University of Technology
 
 Rm 418, Transportation Building, South China University of Technology, Wushan, Tianhe District, Guangzhou, China
 
