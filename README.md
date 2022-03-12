@@ -7,7 +7,7 @@ Rm 418, Transportation Building, South China University of Technology, Wushan, T
 
 ## **Research Interests**
 
-Create intelligent agents to sense, understand, and reason the complicated construction activity and environment, and make management and construction easier.
+Create intelligent agents to sense, understand, and reason the complicated construction activity and environment, making management and construction easier.
 
 
 
