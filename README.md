@@ -9,6 +9,22 @@ Rm 418, Transportation Building, South China University of Technology, Wushan, T
 
 Create intelligent agents to sense, understand, and reason the complicated construction activity and environment, making management and construction easier.
 
+Here are some videos showing what I had completed:
+
+In Chinese: 
+
+1) 2020, https://www.bilibili.com/video/BV1BV411z79Z
+
+In English: 
+
+1) 2018, https://www.youtube.com/watch?v=6dmWi1g0Bnc
+
+2) 2018, https://www.youtube.com/watch?v=XdDa8loQz3M
+
+3) 2019, https://www.youtube.com/watch?v=6wF8EM6cU6E
+
+4) 2020, https://www.youtube.com/watch?v=PtQNhr7tyWo
+
 
 
 ## **Education**
